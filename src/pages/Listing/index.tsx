@@ -1,5 +1,7 @@
+import { Pagination } from "../Pagination";
+
 export function Listing() {
   return (
-    <h1>Listing</h1>
+    <Pagination />
   )
 }
