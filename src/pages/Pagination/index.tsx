@@ -11,6 +11,7 @@ export function Pagination() {
         <button className="dsmovie-pagination-button" disabled={false} >
           <Arrow className="dsmovie-flip-horizontal" />
         </button>
+
       </div>
     </div>
   )
